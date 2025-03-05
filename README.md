@@ -4,6 +4,14 @@ This project is a **Weather Visualization Dashboard** built with **Next.js**, **
 
 ---
 
+## 📸 Screenshots
+
+### 🔹 1.  
+!["screenshot1"](./screenshots/screenshot1.png)
+
+### 🔹 2.  
+!["screenshot2"](./screenshots/screenshot2.png)
+
 ## Features
 
 - **Responsive UI**: Built with Tailwind CSS, ensuring compatibility across devices.
